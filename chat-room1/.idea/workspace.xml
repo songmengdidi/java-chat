@@ -14,7 +14,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="MultiThreadClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chat-room1-client/src/main/java/com/didi/chatroom1/client/multi/MultiThreadClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chat-room1-client/src/main/java/com/didi/chatroom1/client/multi/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,6 +54,7 @@
         <option value="$PROJECT_DIR$/chat-room1-server/src/main/java/com/didi/chatroom1/server/multi/MultiThreadServer.java" />
         <option value="$PROJECT_DIR$/chat-room1-server/src/main/java/com/didi/chatroom1/server/multi/ExecuteClient.java" />
         <option value="$PROJECT_DIR$/chat-room1-client/src/main/java/com/didi/chatroom1/client/multi/MultiThreadClient.java" />
+        <option value="$PROJECT_DIR$/chat-room1-client/src/main/java/com/didi/chatroom1/client/multi/test.java" />
       </list>
     </option>
   </component>
@@ -68,7 +88,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -83,6 +102,112 @@
             </path>
             <path>
               <item name="chat-room1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat-room1" type="462c0819:PsiDirectoryNode" />
+              <item name="chat-room1-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat-room1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat-room1" type="462c0819:PsiDirectoryNode" />
+              <item name="chat-room1-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat-room1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat-room1" type="462c0819:PsiDirectoryNode" />
+              <item name="chat-room1-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat-room1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat-room1" type="462c0819:PsiDirectoryNode" />
+              <item name="chat-room1-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat-room1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat-room1" type="462c0819:PsiDirectoryNode" />
+              <item name="chat-room1-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="didi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat-room1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat-room1" type="462c0819:PsiDirectoryNode" />
+              <item name="chat-room1-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="didi" type="462c0819:PsiDirectoryNode" />
+              <item name="chatroom1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat-room1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat-room1" type="462c0819:PsiDirectoryNode" />
+              <item name="chat-room1-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="didi" type="462c0819:PsiDirectoryNode" />
+              <item name="chatroom1" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat-room1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat-room1" type="462c0819:PsiDirectoryNode" />
+              <item name="chat-room1-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="didi" type="462c0819:PsiDirectoryNode" />
+              <item name="chatroom1" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="multi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat-room1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat-room1" type="462c0819:PsiDirectoryNode" />
+              <item name="chat-room1-client" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat-room1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat-room1" type="462c0819:PsiDirectoryNode" />
+              <item name="chat-room1-client" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat-room1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat-room1" type="462c0819:PsiDirectoryNode" />
+              <item name="chat-room1-client" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat-room1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chat-room1" type="462c0819:PsiDirectoryNode" />
+              <item name="chat-room1-client" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="didi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chat-room1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
@@ -90,6 +215,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -220,14 +346,16 @@
       <workItem from="1553388395305" duration="20029000" />
       <workItem from="1553413745967" duration="2445000" />
       <workItem from="1554513424953" duration="175000" />
+      <workItem from="1555579233905" duration="132000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27454000" />
+    <option name="totallyTimeSpent" value="27586000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -242,7 +370,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2934519" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29830235" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -271,101 +399,111 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../chat-room1/chat-room1-client/src/main/java/com/didi/chatroom1/client/multi/MultiThreadClient.java">
+    <entry file="file://$PROJECT_DIR$/chat-room1-client/src/main/java/com/didi/chatroom1/client/multi/MultiThreadClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
           <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../chat-room1/chat-room1-client/src/main/java/com/didi/chatroom1/client/multi/WriteDataToServerThread.java">
+    <entry file="file://$PROJECT_DIR$/chat-room1-client/src/main/java/com/didi/chatroom1/client/multi/WriteDataToServerThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../chat-room1/chat-room1-client/src/main/java/com/didi/chatroom1/client/multi/ReadDataFromServerThread.java">
+    <entry file="file://$PROJECT_DIR$/chat-room1-client/src/main/java/com/didi/chatroom1/client/multi/ReadDataFromServerThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../chat-room1/chat-room1-server/src/main/java/com/didi/chatroom1/server/multi/MultiThreadServer.java">
+    <entry file="file://$PROJECT_DIR$/chat-room1-server/src/main/java/com/didi/chatroom1/server/multi/MultiThreadServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" column="9" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="20" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../chat-room1/chat-room1-server/src/main/java/com/didi/chatroom1/server/multi/ExecuteClient.java">
+    <entry file="file://$PROJECT_DIR$/chat-room1-server/src/main/java/com/didi/chatroom1/server/multi/ExecuteClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2109">
           <caret line="113" lean-forward="true" selection-start-line="113" selection-end-line="113" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../chat-room1/chat-room1-client/pom.xml">
+    <entry file="file://$PROJECT_DIR$/chat-room1-client/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../chat-room1/chat-room1-client/src/main/java/com/didi/chatroom1/client/multi/MultiThreadClient.java">
+    <entry file="file://$PROJECT_DIR$/chat-room1-client/src/main/java/com/didi/chatroom1/client/multi/MultiThreadClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../chat-room1/chat-room1-client/src/main/java/com/didi/chatroom1/client/multi/MultiThreadClient.java">
+    <entry file="file://$PROJECT_DIR$/chat-room1-client/src/main/java/com/didi/chatroom1/client/multi/MultiThreadClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../chat-room1/chat-room1-server/src/main/java/com/didi/chatroom1/server/multi/ExecuteClient.java">
+    <entry file="file://$PROJECT_DIR$/chat-room1-server/src/main/java/com/didi/chatroom1/server/multi/ExecuteClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2109">
           <caret line="113" selection-start-line="113" selection-end-line="113" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../chat-room1/chat-room1-server/src/main/java/com/didi/chatroom1/server/multi/MultiThreadServer.java">
+    <entry file="file://$PROJECT_DIR$/chat-room1-server/src/main/java/com/didi/chatroom1/server/multi/MultiThreadServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" column="9" selection-start-line="12" selection-start-column="8" selection-end-line="20" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../chat-room1/chat-room1-client/src/main/java/com/didi/chatroom1/client/multi/MultiThreadClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../chat-room1/chat-room1-client/src/main/java/com/didi/chatroom1/client/multi/WriteDataToServerThread.java">
+    <entry file="file://$PROJECT_DIR$/chat-room1-client/src/main/java/com/didi/chatroom1/client/multi/WriteDataToServerThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="551">
           <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../chat-room1/chat-room1-client/src/main/java/com/didi/chatroom1/client/multi/ReadDataFromServerThread.java">
+    <entry file="file://$PROJECT_DIR$/chat-room1-client/src/main/java/com/didi/chatroom1/client/multi/ReadDataFromServerThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="341">
           <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../chat-room1/chat-room1-client/pom.xml">
+    <entry file="file://$PROJECT_DIR$/chat-room1-client/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat-room1.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat-room1-client/src/main/java/com/didi/chatroom1/client/multi/MultiThreadClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat-room1-client/src/main/java/com/didi/chatroom1/client/multi/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
